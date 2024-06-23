@@ -22,11 +22,8 @@ actualizarContador();
 
 // BOTONES
 function enterWe(){
-    window.location.href = "https://geraor.github.io/My-Girl/html/we.html";
+    window.location.href = "https://geraor.github.io/GyL/";
 }
 function enterPlaces(){
-    window.location.href = "https://geraor.github.io/My-Girl/html/we.html";
-}
-function back(){
-    window.location.href = "/index.html"
+    window.location.href = "https://geraor.github.io/places/";
 }
