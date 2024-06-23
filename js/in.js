@@ -22,10 +22,10 @@ actualizarContador();
 
 // BOTONES
 function enterWe(){
-    window.location.href = "/html/we.html";
+    window.location.href = "https://geraor.github.io/My-Girl//html/we.html";
 }
 function enterPlaces(){
-    window.location.href = "/html/we.html";
+    window.location.href = "https://geraor.github.io/My-Girl//html/we.html";
 }
 function back(){
     window.location.href = "/index.html"
