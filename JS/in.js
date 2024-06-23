@@ -22,11 +22,11 @@ actualizarContador();
 
 // BOTONES
 function enterWe(){
-    window.location.href = "./HTML/we.html";
+    window.location.href = "./html/we.html";
 }
 function enterPlaces(){
-    window.location.href = "./HTML/places.html";
+    window.location.href = "./html/places.html";
 }
 function back(){
-    window.location.href = "./index.html"
+    window.location.href = "/index.html"
 }
