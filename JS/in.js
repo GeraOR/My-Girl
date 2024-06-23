@@ -22,7 +22,7 @@ actualizarContador();
 
 // BOTONES
 function enterWe(){
-    window.location.href = "/html/we.html";
+    window.location.href = "/HTML/we.html";
 }
 function enterPlaces(){
     window.location.href = "/html/places.html";
